@@ -1,2 +1,2 @@
 # Bootcamp
-Essential Practices for Software development
+Essential Practices for Web development
